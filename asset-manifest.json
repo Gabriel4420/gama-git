@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/gabriel4420.github.io/gama-git/static/css/main.8fad9c71.chunk.css",
-    "main.js": "/gabriel4420.github.io/gama-git/static/js/main.3b480dc9.chunk.js",
-    "main.js.map": "/gabriel4420.github.io/gama-git/static/js/main.3b480dc9.chunk.js.map",
-    "runtime-main.js": "/gabriel4420.github.io/gama-git/static/js/runtime-main.9d06f72b.js",
-    "runtime-main.js.map": "/gabriel4420.github.io/gama-git/static/js/runtime-main.9d06f72b.js.map",
-    "static/js/2.0d8995cc.chunk.js": "/gabriel4420.github.io/gama-git/static/js/2.0d8995cc.chunk.js",
-    "static/js/2.0d8995cc.chunk.js.map": "/gabriel4420.github.io/gama-git/static/js/2.0d8995cc.chunk.js.map",
-    "index.html": "/gabriel4420.github.io/gama-git/index.html",
-    "precache-manifest.84f3e68b8ed4a016ec9fa29b57a3ede4.js": "/gabriel4420.github.io/gama-git/precache-manifest.84f3e68b8ed4a016ec9fa29b57a3ede4.js",
-    "service-worker.js": "/gabriel4420.github.io/gama-git/service-worker.js",
-    "static/css/main.8fad9c71.chunk.css.map": "/gabriel4420.github.io/gama-git/static/css/main.8fad9c71.chunk.css.map",
-    "static/js/2.0d8995cc.chunk.js.LICENSE.txt": "/gabriel4420.github.io/gama-git/static/js/2.0d8995cc.chunk.js.LICENSE.txt"
+    "main.css": "/gabriel4420.github.io/gama-git/src/static/css/main.8fad9c71.chunk.css",
+    "main.js": "/gabriel4420.github.io/gama-git/src/static/js/main.3b480dc9.chunk.js",
+    "main.js.map": "/gabriel4420.github.io/gama-git/src/static/js/main.3b480dc9.chunk.js.map",
+    "runtime-main.js": "/gabriel4420.github.io/gama-git/src/static/js/runtime-main.5c4ad979.js",
+    "runtime-main.js.map": "/gabriel4420.github.io/gama-git/src/static/js/runtime-main.5c4ad979.js.map",
+    "static/js/2.935b667d.chunk.js": "/gabriel4420.github.io/gama-git/src/static/js/2.935b667d.chunk.js",
+    "static/js/2.935b667d.chunk.js.map": "/gabriel4420.github.io/gama-git/src/static/js/2.935b667d.chunk.js.map",
+    "index.html": "/gabriel4420.github.io/gama-git/src/index.html",
+    "precache-manifest.e2a6981b5a08a4a5e98c3ba0146ff975.js": "/gabriel4420.github.io/gama-git/src/precache-manifest.e2a6981b5a08a4a5e98c3ba0146ff975.js",
+    "service-worker.js": "/gabriel4420.github.io/gama-git/src/service-worker.js",
+    "static/css/main.8fad9c71.chunk.css.map": "/gabriel4420.github.io/gama-git/src/static/css/main.8fad9c71.chunk.css.map",
+    "static/js/2.935b667d.chunk.js.LICENSE.txt": "/gabriel4420.github.io/gama-git/src/static/js/2.935b667d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9d06f72b.js",
-    "static/js/2.0d8995cc.chunk.js",
+    "static/js/runtime-main.5c4ad979.js",
+    "static/js/2.935b667d.chunk.js",
     "static/css/main.8fad9c71.chunk.css",
     "static/js/main.3b480dc9.chunk.js"
   ]
