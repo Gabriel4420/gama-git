@@ -1,0 +1,1 @@
+{"version":3,"sources":["styling.css","styles.css","style.css"],"names":[],"mappings":"AAAA,UACE,wBAAA,CCAA,wBAAyB,CCAzB,WAAW,CACX,YFAF","file":"main.8fad9c71.chunk.css","sourcesContent":["html,body{\r\n  background-color:#630e49\r\n}","html, body{\r\n  background-color: #131313;\r\n}","html, body{\r\n  width:100vh;\r\n  height: 100vh;\r\n}"]}
